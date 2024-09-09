@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bmw3dshow/static/css/main.e6c13ad2.css",
+    "main.js": "/bmw3dshow/static/js/main.8655a4c8.js",
+    "index.html": "/bmw3dshow/index.html",
+    "main.e6c13ad2.css.map": "/bmw3dshow/static/css/main.e6c13ad2.css.map",
+    "main.8655a4c8.js.map": "/bmw3dshow/static/js/main.8655a4c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8655a4c8.js"
+  ]
+}
